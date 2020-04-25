@@ -196,7 +196,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iodemo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -669,12 +669,12 @@
       <workItem from="1586800842965" duration="685000" />
       <workItem from="1587004061904" duration="599000" />
       <workItem from="1587227253544" duration="251000" />
-      <workItem from="1587804079910" duration="200000" />
+      <workItem from="1587804079910" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8510000" />
+    <option name="totallyTimeSpent" value="8587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="-10" width="1940" height="1043" extended-state="0" />
